@@ -1,0 +1,2 @@
+# qr-code_attendance_management_system
+Tracking students attendances
